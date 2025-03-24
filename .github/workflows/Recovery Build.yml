@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/samsung-sc8830/twrp_device_samsung_goyave'
+        default: 'https://github.com/test-one9/android_device_samsung_gtexswifi'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
